@@ -4,9 +4,9 @@ This web application about the documentation sharing and managing. Beacuse of co
 
 <h2 align="center">Technologies</h2>
 <p align="center">
-  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/postgresql-logo.png" width="100" height="80">
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="100" height="auto">
   <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" width="100" height="auto">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="100" height="auto">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/postgresql-logo.png" width="100" height="80">
 </p>
 
 
