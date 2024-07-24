@@ -1,5 +1,13 @@
 # A2rlDoc-web
-This web application about the documentation sharing and managing.
+This web application about the documentation sharing and managing. Beacuse of company privacy just sharing project image.
+
+
+<h2 align="center">Technologies</h2>
+<p align="center">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/postgresql-logo.png" width="100" height="80">
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" width="100" height="auto">
+  <img src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" width="100" height="auto">
+</p>
 
 
 ![Group 7](https://github.com/user-attachments/assets/70bb1a45-bd2f-4c91-9521-df2b5f15e9fa)
